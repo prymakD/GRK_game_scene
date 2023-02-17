@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Serhii\source\repos\GRK_game_scene\dependencies\glfw-3.3.8.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(180,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(259,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(282,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(382,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(412,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(426,98): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(429,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(516,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(548,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(577,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(586,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(609,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(715,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(727,108): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(735,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(735,223): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(738,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(739,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(835,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(841,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(842,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(907,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(909,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(932,17): warning C4101: 'data': unreferenced local variable
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1028,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1080,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1081,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1082,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1114,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1115,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1116,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1152,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1153,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1154,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1334,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1336,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Serhii\source\repos\GRK_game_scene\cw 9\src\ex_9_1.hpp(1356,21): warning C4018: '<': signed/unsigned mismatch
+Box.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  grk-cw9.vcxproj -> C:\Users\Serhii\source\repos\GRK_game_scene\Debug\grk-cw9.exe

@@ -1,0 +1,3 @@
+C:/Users/arciom/Desktop/GRK_game_scene_new2/dependencies/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/Users/arciom/Desktop/GRK_game_scene_new2/dependencies/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/arciom/Desktop/GRK_game_scene_new2/dependencies/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
