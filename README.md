@@ -1,6 +1,7 @@
 # GRK_game_scene
 
 ## Scena pokoju 22/23
+[Original github commits history](https://git.wmi.amu.edu.pl/s452716/GRK_game_scene/commits/branch/master)
 
 **Gantt Chart:**
 
